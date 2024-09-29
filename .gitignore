@@ -1,0 +1,11 @@
+
+*.db
+.vs/Application1/FileContentIndex/789b91a3-4ade-40b3-b7b5-9bffd026fb59.vsidx
+.vs/Application1/FileContentIndex/bcc78b84-b635-435f-b4dc-6cc76a409ee4.vsidx
+.vs/Application1/v17/Browse.VC.db-shm
+.vs/Application1/v17/Browse.VC.db-wal
+.vs/Application1/v17/Browse.VC.opendb
+Application1.sln
+Application1.vcxproj
+Application1.vcxproj.filters
+Application1.vcxproj.user
