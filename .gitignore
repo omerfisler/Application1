@@ -9,3 +9,8 @@ Application1.sln
 Application1.vcxproj
 Application1.vcxproj.filters
 Application1.vcxproj.user
+*.tlog
+/Debug
+*.exe
+/x64
+/.vs
